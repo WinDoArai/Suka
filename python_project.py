@@ -7,7 +7,7 @@ st.set_page_config(page_title="Pichitpong Somsri", page_icon="💚💛")
 st.title("😁 Who am I")
 
 # Introduction
-st.subheader("I'm Pichitpong Somsri (Project)")
+st.subheader("I'm Pichitpong Somsri (Win)")
 st.write("""
 - 2022 - Present 🧑 Student in Computer Science [CS RMUTL NAN](https://nan.rmutl.ac.th/)
 - 2024 - SuperAI Engineer Season 4
